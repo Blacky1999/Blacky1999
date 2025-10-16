@@ -1,31 +1,42 @@
-# Blacky1999
+# Dr. rer. nat. Schütten — Chemiker (F&E, Analytik)
 
-## Software Developer & Computer Research Specialist
+Ich bin promovierter Chemiker mit über 15 Jahren Erfahrung in Forschung, Entwicklung und analytischer Chemie. Mein Schwerpunkt liegt auf der strukturierten Lösung komplexer Problemstellungen entlang des gesamten F&E‑Lebenszyklus – von der Idee über die methodische Umsetzung bis zur validierten Auswertung und skalierbaren Implementierung im Laboralltag.
 
-Experienced developer with a focus on computer research, systems analysis, and digital analytics. Currently exploring modern web technologies and expanding expertise in software development.
+## Profil in Kürze
+- 15+ Jahre Berufserfahrung in Industrie und Forschung
+- Fundierte Expertise in organischer, anorganischer, physikalischer und analytischer Chemie
+- Umfassende Laborpraxis (GLP/GMP‑nah), Methodenentwicklung, Validierung und Qualitätssicherung
+- Ausgeprägte Stärke in Datenanalyse, Dokumentation und Ergebnistransfer in die Praxis
+- Teamorientierte, präzise und verantwortungsvolle Arbeitsweise
 
-### Core Competencies
+## Fachliche Schwerpunkte
+- Organische Synthesechemie und Reaktionsoptimierung
+- Anorganische Chemie und Werkstoffsysteme
+- Physikalisch‑chemische Charakterisierung (Thermodynamik, Kinetik, Spektroskopie)
+- Analytische Methodenentwicklung (u. a. HPLC/UPLC, GC, LC‑MS, GC‑MS, NMR, UV/Vis, IR, Titrationen)
+- Probenvorbereitung, Messstrategie, Kalibrierung, Fehleranalyse und Messunsicherheit
+- Qualitätsmanagement, SOP‑Erstellung, Methodentransfer, Audits und Schulungen
 
-- Computer Research & Systems Analysis
-- YouTube Analytics & Data Interpretation
-- Web Development (HTML, CSS, JavaScript)
-- Software Engineering
-- Technical Problem Solving
-- Code Review & Quality Assurance
+## Projekte (Auswahl)
+- Entwicklung robuster HPLC‑Methoden zur Stabilitätsprüfung komplexer Matrizes
+- Scale‑up organischer Syntheserouten mit Fokus auf Ausbeute, Selektivität und Sicherheit
+- Einführung eines strukturierten Validierungsframeworks (System Suitability, Robustheit, Präzision)
+- Implementierung reproduzierbarer Laborabläufe (DoE, statistische Auswertung, CAPA‑Maßnahmen)
 
-### Technical Skills
+Hinweis: Detailinformationen zu Projekten und Publikationen werden sukzessive ergänzt.
 
-- Programming Languages: Python, C/C++, JavaScript
-- Web Technologies: HTML5, CSS3, Next.js
-- Development Tools: Git, GitHub, Visual Studio Code
-- Areas of Interest: Cybersecurity, Driver Development, System Architecture
+## Arbeitsweise und Werte
+- Wissenschaftliche Strenge, Nachvollziehbarkeit und Reproduzierbarkeit
+- Klare Kommunikation und saubere Dokumentation für regulatorische Kontexte
+- Sicherheitsbewusstsein und Verantwortlichkeit im Laborbetrieb
+- Kontinuierliche Verbesserung durch Feedback, Review und Training
 
-### Current Projects
+## Publikationen und Vorträge
+Eine konsolidierte Liste relevanter Publikationen, Poster und Vorträge wird hier zeitnah ergänzt. Auf Anfrage stelle ich gerne eine Auswahl bereit.
 
-- [deauth-pentest-website](https://github.com/Blacky1999/deauth-pentest-website) - Cybersecurity research and penetration testing tools
-- [nextjs-ai-chatbot](https://github.com/Blacky1999/nextjs-ai-chatbot) - AI-powered chatbot development
-- [KDriver](https://github.com/Blacky1999/KDriver) & [KDriverController](https://github.com/Blacky1999/KDriverController) - Kernel driver development
+## Kontakt
+Bei Interesse an Austausch oder Zusammenarbeit erreichen Sie mich per E‑Mail: rgarber48@gmail.com
 
-### Contact
+---
 
-Feel free to reach out for collaboration opportunities or technical discussions through GitHub.
+Impressum/Disclaimer: Dieses Profil dient der Information über fachliche Schwerpunkte, Erfahrungen und Projekte. Vertrauliche Inhalte werden nicht veröffentlicht.
