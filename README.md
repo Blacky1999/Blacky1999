@@ -130,7 +130,7 @@ Ich glaube an die Kraft der Open‑Source‑Bewegung für die Wissenschaft und t
 - Beiträge zu Cheminformatics‑Bibliotheken und ‑Tools
 
 ## 📫 Kontakt & Zusammenarbeit
-Bei Interesse an Austausch, Zusammenarbeit oder Open‑Source‑Projekten erreichen Sie mich per E‑Mail: **rgarber48@gmail.com**
+Bei Interesse an Austausch, Zusammenarbeit oder Open‑Source‑Projekten erreichen Sie mich per E‑Mail: **AUF ANFRAGE**
 
 Ich freue mich besonders über:
 - Kollaborationen in der **Cheminformatics** und **Scientific Computing**
